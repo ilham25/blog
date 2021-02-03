@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iruha25</title>
+    <link>https://ilham25.github.io/blog/</link>
+    <description>Recent content on Iruha25</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Feb 2021 17:39:13 +0700</lastBuildDate><atom:link href="https://ilham25.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sumber Belajar Programming</title>
+      <link>https://ilham25.github.io/blog/posts/sumber-belajar/</link>
+      <pubDate>Wed, 03 Feb 2021 17:39:13 +0700</pubDate>
+      
+      <guid>https://ilham25.github.io/blog/posts/sumber-belajar/</guid>
+      <description>Disini saya akan membagikan, beberapa sumber channel youtube yang sering saya kunjungi untuk dipelajari, barangkali berguna.
+ Programming
+  Web Programming Unpas Dev Ed The Net Ninja Tahu Coding Programming with Mosh Channel Erico Darmawan Handoyo Fireship Red Stapler PedroTech Web Dev Simplified   UI Design
+  Dev Ed DesignCourse  Sekian mungkin, kurang lebih beberapa sumber belajar saya, mungkin artikel ini keliatan membosankan karena gak ada gambarnya, tapi saya harap dapat membantu.</description>
+    </item>
+    
+  </channel>
+</rss>
